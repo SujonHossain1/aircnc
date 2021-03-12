@@ -11,6 +11,7 @@ const Home = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-md-4">
+                        <h4 className="mb-3 mt-2">Where do you want to go</h4>
                         <Search />
                     </div>
                     <div className="col-md-8">

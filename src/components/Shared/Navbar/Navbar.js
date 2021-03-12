@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import '../../../assets/styles/navbar.scss';
 
 const Navbar = () => (
-    <nav className="navbar navbar-expand-sm navbar-light border-bottom">
+    <nav className="navbar navbar-expand-sm navbar-light border-bottom sticky-top">
         <div className="container">
             <Link to="/" className="navbar-brand">
                 Aircnc

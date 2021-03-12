@@ -1,10 +1,17 @@
+.single__home__link {
+  text-decoration: none;
+  color: #222;
+}
+.single__home__link:hover {
+  color: #222;
+}
 .single__home__img {
   border-radius: 4px;
 }
 .single__home h6 {
   font-size: 11px;
   margin-top: 3px;
-  font-weight: 700;
+  font-weight: 600;
 }
 .single__home h3 {
   font-size: 15px;
@@ -13,7 +20,7 @@
 }
 
 .single__home__star {
-  color: #00a799;
+  color: #2bde8c;
 }
 
 .single__home__reviews {

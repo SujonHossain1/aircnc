@@ -1,0 +1,30 @@
+.navbar-brand {
+  font-size: 33px;
+  background: -webkit-linear-gradient(0deg, #2bde8c, #7aef4d);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+.navbar-nav {
+  align-items: center;
+}
+.navbar-toggler {
+  padding: 2px 9px;
+  border-radius: 3px;
+}
+
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 2px #333 !important;
+}
+
+.nav-link {
+  font-weight: 600;
+  color: #222 !important;
+  padding-left: 1.2em !important;
+  font-size: 15px;
+}
+.btn-primary-hover:hover {
+  color: #fff !important;
+}

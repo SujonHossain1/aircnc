@@ -1,0 +1,20 @@
+.search__item {
+  border-bottom: 1px solid #dee2e6;
+  padding-top: 25px;
+}
+.search__item__img {
+  border-radius: 8px;
+  object-fit: cover;
+}
+.search__tag {
+  margin-top: 10px;
+}
+.search__item__review {
+  display: flex;
+  justify-content: space-between;
+}
+.search__item__review__left {
+  span {
+    margin-left: 5px;
+  }
+}
